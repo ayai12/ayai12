@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<!--
+
 I'm **Ayaan** — a builder and founder focused on AI-powered products and clean, production-ready software.
 
 - 🚀 Building AI-first tools & startups  
@@ -15,5 +15,3 @@ Currently focused on:
 
 Feel free to explore my repositories or reach out 👇  
 
-
--->
